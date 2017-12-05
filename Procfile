@@ -1,3 +1,3 @@
 applications:
-- name: tensorflow-mnist
-  command: node my-app.js
+- name: tensorflow-app
+  command: node tensorflow-app.js
